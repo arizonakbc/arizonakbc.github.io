@@ -5,6 +5,12 @@ link: resources
 permalink: /resources/
 ---
 
+## Resources (COVID-19)
+
+- [Announcing Arizona Public Service (APS) Temporary Customer Support Fund](/static/docs/APS-100-Credit.pdf)
+- [Corona Communication](/static/docs/Corona-Communication.pdf) 
+- [တၢ်ဂ့ၢ်တၢ်ကျိၤတဖၣ်လၢန.ကၢးသ့ၣ်ညါ](/static/docs/DES-Unemploymnet-Insurance-Benefits.pdf)
+
 ## Resources
 
 - [N-400 application](https://drive.google.com/file/d/0B19u6GPALdafVmJJWS1IR0E0MXM/view?usp=sharing) for US
