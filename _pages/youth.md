@@ -30,7 +30,7 @@ permalink: /youth/
   <iframe width="560" height="349" src="http://www.youtube.com/embed/dPMYL0S-kQw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Youth Activities
+## Youth Activities သးစၢ်အတၢ်ဟူးတၢ်ဂဲၤ
 
 
 <div class="video-container">
@@ -38,7 +38,7 @@ permalink: /youth/
 </div>
 
 
-## Contribution from AKBC Youth/Young Adults
+## Contribution from AKBC Youth/Young Adults တၢ်ဟ့ၣ်ထီၣ်တၢ်လၢအရံၣ်စိနါကညီဘျၢထံတၢ်အိၣ်ဖှိၣ်သးစၢ်တဖၣ်
 
 Stewardship of the Lord’s House" written by Mu Si; read and arranged by Eh Htoo Wah Hso
 

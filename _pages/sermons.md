@@ -7,4 +7,4 @@ permalink: /sermons/
 
 ## Sermons
 
-[AKBC Sermons](https://drive.google.com/folderview?id=0B19u6GPALdafTkQxTlMxamNkOVk&usp=sharing).
+[AKBC Sermons တၢ်စံၣ်တဲၤတဲလီၤတၢ်တဖၣ်](https://drive.google.com/folderview?id=0B19u6GPALdafTkQxTlMxamNkOVk&usp=sharing).
