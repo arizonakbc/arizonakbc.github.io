@@ -5,11 +5,9 @@ link: resources
 permalink: /resources/
 ---
 
-## Resources (COVID-19) တၢ်ဂ့ၢ်အဂၤလၢကဲဘျူးသ့
+## Resources (COVID-19) Covid တၢ်ဂ့ၢ်အဂၤလၢကဲဘျူးသ့
 
-- [Announcing Arizona Public Service (APS) Temporary Customer Support Fund](/static/docs/APS-100-Credit.pdf)
-- [Corona Communication](/static/docs/Corona-Communication.pdf) 
-- [တၢ်ဂ့ၢ်တၢ်ကျိၤတဖၣ်လၢန.ကၢးသ့ၣ်ညါ](/static/docs/DES-Unemploymnet-Insurance-Benefits.pdf)
+- [Covid တၢ်ဂ့ၢ်အဂၤလၢကဲဘျူးသ့](https://drive.google.com/drive/folders/1Gfb2mqO3slBIuNguZw69EmDaNUPUNaze?usp=sharing)
 
 ## Resources တၢ်ဂ့ၢ်အဂၤလၢကဲဘျူးသ့
 
