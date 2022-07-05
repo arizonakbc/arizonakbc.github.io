@@ -9,7 +9,7 @@ permalink: /biblestudies/
 [Click here](https://drive.google.com/file/d/0B19u6GPALdafcnp2dHNPdGRHRE0/edit?usp=sharing).
 
 ## Bible Study Materials တၢ်မၤလိလံာ်စီဆှံ - တၢ်ဒုးကဲထီၣ်ခရံာ်အပျဲၢ်အဘီၣ်
-[Explore them here](https://drive.google.com/folderview?id=0B19u6GPALdafbzhKckJ4LXRmZ3M&usp=sharing).
+[Explore them here](https://drive.google.com/drive/folders/0B19u6GPALdafbzhKckJ4LXRmZ3M?resourcekey=0-RisdvUwAhc9_6jdNhDERkA).
 
 ## Bible Study Schedule တၢ်မၤလိလံာ်စီဆှံနံၣ်သီဆၢကတီၢ်တဖၣ်
 [Check the bible study schedule](/bible_study_schedule).
